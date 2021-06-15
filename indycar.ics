@@ -1,10 +1,12 @@
 BEGIN:VCALENDAR
-PRODID:-//Toorkat//
+PRODID:-//Toorkat//Toorkat//EN
 VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 NAME:IndyCar Series
+X-WR-CALNAME:IndyCar Series
 DESCRIPTION:IndyCar Series races
+X-WR-CALDESC:IndyCar Series races
 UID:Toorkat-IndyCar-calendar
 BEGIN:VEVENT
 DTSTART:20210620T164000Z
